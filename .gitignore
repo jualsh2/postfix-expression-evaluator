@@ -1,0 +1,6 @@
+postfix
+postfix.exe
+*.o
+*.out
+.vscode/
+.DS_Store
